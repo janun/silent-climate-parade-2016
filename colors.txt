@@ -1,0 +1,4 @@
+Dunkelblau: CMYK(88, 45,  0, 63)
+Mittelblau: CMYK(75, 33,  0, 38)
+Hellblau:   CMYK(40, 17,  0, 23)
+Orange:     CMYK( 0, 46, 78,  7)
